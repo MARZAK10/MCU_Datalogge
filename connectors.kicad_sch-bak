@@ -1120,7 +1120,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x09_Pin")
-		(at 101.346 139.7 0)
+		(at 118.364 150.114 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1128,7 +1128,7 @@
 		(dnp no)
 		(uuid "b6411b64-9c90-4765-b2e6-6c0a28332c24")
 		(property "Reference" "J3"
-			(at 101.981 123.952 0)
+			(at 118.999 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1136,7 +1136,7 @@
 			)
 		)
 		(property "Value" "Conn_01x09_Pin"
-			(at 101.981 126.492 0)
+			(at 118.999 136.906 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1144,7 +1144,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.346 139.7 0)
+			(at 118.364 150.114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1153,7 +1153,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.346 139.7 0)
+			(at 118.364 150.114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1162,7 +1162,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x09, script generated"
-			(at 101.346 139.7 0)
+			(at 118.364 150.114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1171,7 +1171,7 @@
 			)
 		)
 		(property "Purpose " "GPIO"
-			(at 103.632 152.654 0)
+			(at 120.65 163.068 0)
 			(effects
 				(font
 					(size 1.27 1.27)
