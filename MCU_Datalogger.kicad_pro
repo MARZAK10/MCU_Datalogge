@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MCU_dataloger.kicad_pro",
+    "filename": "MCU_Datalogger.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -382,6 +382,15 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "d9a5c4ae-f738-4eec-ba07-3147cf00a375",
+      "Root"
+    ],
+    [
+      "918ed21d-6938-4a1e-9589-26a89c8baba1",
+      "connectors"
+    ]
+  ],
   "text_variables": {}
 }
